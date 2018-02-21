@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 
-#global params
 base_search_link = 'https://www.postnummerservice.se/adressoekning'
 params = {'external': '0', 'street': '', 'postalcode': '', 'locality': '', 'county_code': '', 'submit': ''}
 
