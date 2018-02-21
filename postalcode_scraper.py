@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 
 main_link = "https://www.postnummerservice.se/information/svenska-postnummer-och-postorter"
-modified_link = "./modified.html"
 
 global_dict = {}
 num_of_requests = 0
