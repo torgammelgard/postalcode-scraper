@@ -5,8 +5,8 @@ A simple scraper
 
 ### Mac
 ```
-git clone git@github.com:torgammelgard/postalcode_scraper.git
-cd postalcode_scraper.git
+git clone git@github.com:torgammelgard/postalcode-scraper.git
+cd postalcode-scraper.git
 virtualenv -p /usr/local/bin/python3 .
 ```
 
