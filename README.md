@@ -1,4 +1,4 @@
-# postalcode_scraper
+# Postalcode scraper
 A simple scraper
 
 ## Installation instructions
